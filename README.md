@@ -1,9 +1,3 @@
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <p align="center">
   <img src="https://spy-family.net/assets/img/special/anya/01.png", width="100">
   <img src="https://spy-family.net/assets/img/special/anya/02.png", width="100">
@@ -46,7 +40,5 @@
   <img src="https://spy-family.net/assets/img/special/anya/39.png", width="100">
   <img src="https://spy-family.net/assets/img/special/anya/40.png", width="100"><br><br>
 </p>
-<br>
-<br>
-<br>
+
 
