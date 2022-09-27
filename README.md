@@ -4,9 +4,6 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
 <p align="center">
   <img src="https://spy-family.net/assets/img/special/episode4/02.png", width="100">
   <img src="https://spy-family.net/assets/img/special/episode4/05.png", width="100">
@@ -27,7 +24,6 @@
   <img src="https://spy-family.net/assets/img/special/episode11/03.png", width="100">
   <img src="https://spy-family.net/assets/img/special/episode11/04.png", width="100"><br><br>
 </p>
-<br>
 <br>
 <br>
 <br>
